@@ -1,6 +1,6 @@
 ### :v: Tudo bem? 
 
-- 🔭 Atualmente eu trabalho com PHP/Node/Reactjs.
+- 🔭 Atualmente eu trabalho com PHP.
 - 🌱 Estou estudando várias coisas :sweat_smile: e aprendendo Golang.
 - 👯 Faço parte da melhor comunidade desenvolvedores [DevCia](https://github.com/DevCia).
 - :smile: Vamos conversar => [Linkedin("Kraudio");](https://www.linkedin.com/in/claudio-silva-junior-12aba9158/)
